@@ -24,7 +24,7 @@ class _RegistrationScreenState extends State<RegistrationScreen>
   TextEditingController profileHeadingTextEditingController = TextEditingController();
   TextEditingController lookingForInaPartnerTextEditingController = TextEditingController();
 
-  //Apperence
+  //Appearance
   TextEditingController heightTextEditingController = TextEditingController();
   TextEditingController weightTextEditingController = TextEditingController();
   TextEditingController bodyTypeTextEditingController = TextEditingController();
